@@ -1,0 +1,14 @@
+title: Гра
+description: Незатійливі ігри
+
+url: 'http://beregok.xyz/kvadrat'
+baseurl: '' #change it according to your repository name
+
+
+highlighter: rouge
+
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
